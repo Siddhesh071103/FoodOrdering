@@ -13,31 +13,31 @@
 
 **Login Screen with Login as Guest**
 
-![LoginScreen](https://github.com/user-attachments/assets/b110d496-4ad9-4a88-922d-1566d73c941d)
+<img src="https://github.com/user-attachments/assets/b110d496-4ad9-4a88-922d-1566d73c941d" width="200" />
 
 **Register Screen**
 
-![RegisterScreen](https://github.com/user-attachments/assets/dac42188-3b88-48c8-91a0-5519cc45affa)
+<img src="https://github.com/user-attachments/assets/dac42188-3b88-48c8-91a0-5519cc45affa" width="200" />
 
 **Main Screen**
 
-![Main1](https://github.com/user-attachments/assets/63bf0aed-fcd6-45fe-808d-3e55f3292c23)
+<img src="https://github.com/user-attachments/assets/63bf0aed-fcd6-45fe-808d-3e55f3292c23" width="200" />
 
 **Filter & Search Implementation**
 
-![MainScreen](https://github.com/user-attachments/assets/9f376344-f9d5-4122-b0fa-57a811f801ee)
+<img src="https://github.com/user-attachments/assets/9f376344-f9d5-4122-b0fa-57a811f801ee" width="200" />
 
 **Repeat Order Screen**
 
-![Saved Order](https://github.com/user-attachments/assets/c24401f1-b7bf-4fce-980f-22b54048ed06)
+<img src="https://github.com/user-attachments/assets/c24401f1-b7bf-4fce-980f-22b54048ed06" width="200" />
 
 **Ordering Screen**
 
-![OrderSuccess](https://github.com/user-attachments/assets/9999eb78-9f91-4d5b-a227-246f5039d52e)
+<img src="https://github.com/user-attachments/assets/9999eb78-9f91-4d5b-a227-246f5039d52e" width="200" />
 
 **Feedback & Rating Modals**
 
-![ReviewScreen](https://github.com/user-attachments/assets/60c40400-ac4a-4ea5-9f46-ecdfea7ed377)
+<img src="(https://github.com/user-attachments/assets/60c40400-ac4a-4ea5-9f46-ecdfea7ed377" width="200" />
 
 # This complete's the basic Food Ordering App UI Images
 # Hope you like it! 
