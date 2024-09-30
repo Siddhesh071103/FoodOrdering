@@ -37,7 +37,7 @@
 
 **Feedback & Rating Modals**
 
-<img src="(https://github.com/user-attachments/assets/60c40400-ac4a-4ea5-9f46-ecdfea7ed377" width="200" />
+<img src="https://github.com/user-attachments/assets/60c40400-ac4a-4ea5-9f46-ecdfea7ed377" width="200" />
 
 # This complete's the basic Food Ordering App UI Images
 # Hope you like it! 
