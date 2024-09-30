@@ -9,7 +9,7 @@
 
 **Splash Screen**
 
-![SplashScreen](https://github.com/user-attachments/assets/8e69f039-fe46-4cea-bc8e-0159829e29f0)
+<img src="![SplashScreen](https://github.com/user-attachments/assets/8e69f039-fe46-4cea-bc8e-0159829e29f0)" width="200" />
 
 **Login Screen with Login as Guest**
 
